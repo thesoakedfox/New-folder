@@ -1,4 +1,4 @@
-'''code to execute sql queries by andi dai 05/09'''
+'''code to execute sql queries by Andi dai 05/09'''
 import sqlite3
 #importing
 
